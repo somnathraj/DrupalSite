@@ -556,7 +556,10 @@ a.frmore{
   margin-bottom: 20px;
   margin-top: 10px;
 }
-
+.node h2.title a
+{
+ font-size: 15px !important;
+}
 #content .node-teaser {
   padding-bottom:30px;
   border-bottom:1px solid #DDDDDD;
